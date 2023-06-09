@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifydserrorhandle-dev-152541",
       "StackId": "arn:aws:cloudformation:us-west-2:676488953296:stack/amplify-amplifydserrorhandle-dev-152541/248da5c0-06c9-11ee-8b1d-065e8510ef07",
       "AmplifyAppId": "d59nudev1mm3i"
+    },
+    "categories": {
+      "api": {
+        "amplifydserrorhandle": {}
+      }
     }
   }
 }

@@ -3,5 +3,13 @@
     "Version": "0.1.0",
     "IdentityManager": {
         "Default": {}
+    },
+    "AppSync": {
+        "Default": {
+            "ApiUrl": "https://yjnwv2tigfcdrlthjw3elbfwbm.appsync-api.us-west-2.amazonaws.com/graphql",
+            "Region": "us-west-2",
+            "AuthMode": "API_KEY",
+            "ClientDatabasePrefix": "amplifydserrorhandle_API_KEY"
+        }
     }
 }
